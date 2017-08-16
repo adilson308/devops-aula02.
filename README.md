@@ -1,4 +1,6 @@
 # devops-aula02.
-Brad Pitt
+Brad Pitt 
+
 Angelina Jolie
+
 Morgam Freeman
