@@ -1,6 +1,7 @@
 # devops-aula02.
 Brad Pitt 
-
-Angelina Jolie
-
+Freddie Mercury
 Morgam Freeman
+Michael Jackson
+
+
